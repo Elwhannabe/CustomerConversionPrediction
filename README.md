@@ -19,9 +19,9 @@ I'm @Elwhannabe, a passionate and aspiring desktop engineer with a strong founda
 - Open-source tools and utilities for system administration
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email Address](mailto:youremail@example.com)
-
+- LinkedIn: linkedin.com/in/eduardomarquez05
+- Email: eamarquez05@yahoo.com
+  
 ## 😄 Pronouns
 - He/Him
   

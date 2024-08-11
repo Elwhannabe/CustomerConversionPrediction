@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Welcome! 👋
 
 I'm @Elwhannabe, a passionate and aspiring desktop engineer with a strong foundation in help desk support. I'm enthusiastic about technology and continuously exploring new areas to enhance my skills.
 
